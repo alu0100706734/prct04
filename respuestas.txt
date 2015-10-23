@@ -5,5 +5,9 @@ RVM es una plataforma software designada para gestionar multiples instalaciones 
 ¿Cu´ales son las diferencias entre la ejecuci´on del programa "Hola Mundo" con el int´erprete
 de Ruby (ruby helloWorld.rb) y el int´erprete interactivo del ejercicio anterior?
 
-
 La diferencia entre el intérprete de Ruby y el intérprete interactivo es que, con Ruby solo se intérpreta el código y muestra el resultado, mientras que con el intérprete interactivo muestra la línea, la sentencia, lo que representa esa sentencia y además lo que devuelve.
+
+¿Cu´ales son las diferencias entre la ejecuci´on del programa "Hola Mundo" con el int´erprete
+interactivo y con pry?
+
+La diferencia de PRY con el intérprete interactivo es que como vimos antes, con el intérprete interactivo muestra la línea, la sentencia, lo que representa esa sentencia y además lo que devuelve, por otro lado PRY lo que hace es que cuando intérpretamos el código, podemos a continuación podemos: inspeccionar el programa, cambiar el estado actual de este o incluso modificar el código fuente sin necesidad de reiniciar el proceso.
